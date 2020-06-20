@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1559875235 source:c:\users\gonza\desktop\programación 1\trabajo práctico final - hospital\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"turno.h"
+	"medico.h"
+
+1559873326 c:\users\gonza\desktop\programación 1\trabajo práctico final - hospital\tp final\turno.h
+
+1559863614 c:\users\gonza\desktop\programación 1\trabajo práctico final - hospital\tp final\medico.h
+	"turno.h"
+
+1559876152 source:c:\users\gonza\desktop\programación 1\trabajo práctico final - hospital\tp final\turno.c
+	<stdio.h>
+	"turno.h"
+
+1559862431 source:c:\users\gonza\desktop\programación 1\trabajo práctico final - hospital\tp final\medico.c
+	"medico.h"
+
+1561995148 source:e:\tup\trabajo práctico final - hospital\tp final\medico.c
+	<stdio.h>
+	<string.h>
+	"medico.h"
+
+1561946742 e:\tup\trabajo práctico final - hospital\tp final\medico.h
+	"turno.h"
+
+1561999708 e:\tup\trabajo práctico final - hospital\tp final\turno.h
+	"medico.h"
+	"paciente.h"
+
+1491400450 source:e:\tup\trabajo práctico final - hospital\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561839274 source:e:\tup\trabajo práctico final - hospital\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1562024380 source:e:\tup\trabajo práctico final - hospital\tp final\turno.c
+	<stdio.h>
+	"turno.h"
+	"medico.h"
+
+1562028990 source:e:\tup\trabajo práctico final - hospital\tp final\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1562002908 e:\tup\trabajo práctico final - hospital\tp final\menu.h
+	"turno.h"
+	"paciente.h"
+	"medico.h"
+	"habitaciones.h"
+
+1561947090 e:\tup\trabajo práctico final - hospital\tp final\paciente.h
+
+1562010398 source:e:\tup\trabajo práctico final - hospital\tp final\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+	"turno.h"
+
+1491400450 source:f:\tup\trabajo práctico final - hospital\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560116018 source:f:\tup\trabajo práctico final - hospital\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"turno.h"
+	"medico.h"
+
+1559919852 f:\tup\trabajo práctico final - hospital\tp final\turno.h
+
+1559919852 f:\tup\trabajo práctico final - hospital\tp final\medico.h
+	"turno.h"
+
+1560446568 source:f:\tup\trabajo práctico final - hospital\tp final\medico.c
+	<stdio.h>
+	<string.h>
+	"medico.h"
+
+1560446452 source:f:\tup\trabajo práctico final - hospital\tp final\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"paciente.h"
+	"medico.h"
+	"turno.h"
+	"habitaciones.h"
+
+1560445212 f:\tup\trabajo práctico final - hospital\tp final\menu.h
+
+1560442284 f:\tup\trabajo práctico final - hospital\tp final\paciente.h
+
+1560116290 source:f:\tup\trabajo práctico final - hospital\tp final\turno.c
+	<stdio.h>
+	"turno.h"
+
+1560442284 source:f:\tup\trabajo práctico final - hospital\tp final\habitaciones.c
+	"habitaciones.h"
+
+1560442284 f:\tup\trabajo práctico final - hospital\tp final\habitaciones.h
+
+1560444358 source:f:\tup\trabajo práctico final - hospital\tp final\paciente.c
+	"paciente.h"
+	<stdio.h>
+	<stdlib.h>
+
+1562029788 source:e:\tup\trabajo práctico final - hospital\tp final\habitaciones.c
+	"habitaciones.h"
+	"paciente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"medico.h"
+	"turno.h"
+
+1562029752 e:\tup\trabajo práctico final - hospital\tp final\habitaciones.h
+
+1491400450 source:d:\tup\trabajo práctico final - hospital\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561247976 source:d:\tup\trabajo práctico final - hospital\tp final\habitaciones.c
+	"habitaciones.h"
+	"paciente.h"
+
+1560442284 d:\tup\trabajo práctico final - hospital\tp final\habitaciones.h
+
+1561518898 d:\tup\trabajo práctico final - hospital\tp final\paciente.h
+
+1561522320 source:d:\tup\trabajo práctico final - hospital\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"turno.h"
+	"medico.h"
+
+1561521914 d:\tup\trabajo práctico final - hospital\tp final\turno.h
+
+1561568402 d:\tup\trabajo práctico final - hospital\tp final\medico.h
+	"turno.h"
+
+1561569730 source:d:\tup\trabajo práctico final - hospital\tp final\medico.c
+	<stdio.h>
+	<string.h>
+	"medico.h"
+
+1561518898 source:d:\tup\trabajo práctico final - hospital\tp final\paciente.c
+	"paciente.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561521900 source:d:\tup\trabajo práctico final - hospital\tp final\turno.c
+	<stdio.h>
+	"turno.h"
+
+1561569352 source:d:\tup\trabajo práctico final - hospital\tp final\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"paciente.h"
+	"medico.h"
+	"turno.h"
+	"habitaciones.h"
+
+1560445212 d:\tup\trabajo práctico final - hospital\tp final\menu.h
+
